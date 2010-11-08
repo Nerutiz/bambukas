@@ -1,0 +1,2 @@
+<table width="100%" height="300px"><tr><td align="center" valign="middle" style="color:white; font-family:tahoma; font-size:18px"><span style="color:#ffffff; font-family:tahoma; font-size:18px">El. paštas: bambukas@it.us.lt<br/>
+Telefonas: 8 604 09737</span></td></tr></table>

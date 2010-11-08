@@ -1,0 +1,135 @@
+@font-face {
+  font-family:Eurostile;
+  src: url(Eurostile.eot);
+  src: local("Eurostile"), local("Eurostile"),  url(Eurostile.ttf) format('truetype');
+}
+
+.panel {
+	position:relative; 
+	margin-top:150px;
+	min-height:400px;
+ 	
+	
+	background:url(../paslaugos/background_con.png);
+	color:white;
+	
+}
+	
+#lt {
+	width:9px; 
+ 	height:4px; 
+	background:url(../paslaugos/lt.png);
+}
+#rt {
+	width:9px; 
+ 	height:4px; 
+	background:url(../paslaugos/rt.png);
+}
+#lb {
+	width:9px; 
+ 	height:4px; 
+	background:url(../paslaugos/lb.png);
+}
+#rb {
+	width:9px; 
+ 	height:4px; 
+	background:url(../paslaugos/rb.png);
+}
+#l {
+	width:9px; 
+	height:392px;
+	background:url(../paslaugos/l.png);
+	vertical-align:top;
+}
+#r {
+	width:9px; 
+	background:url(../paslaugos/r.png);
+}
+.over {
+	background:url(../paslaugos/selected.png);
+}
+.out {
+	background:none;
+}
+.out_active {
+	background:url(../paslaugos/active.png);
+}
+#content_header {
+	height:50px;
+	width:100%;
+	position:relative;
+	text-align:right;
+	font-family:Eurostile, tahoma;
+	font-size:20px;
+	margin-top:10px;
+	opacity:0.2;filter:alpha(opacity=20);
+	
+}
+#content_header span {
+	
+	margin-right:10px;	
+}
+a:focus {
+	outline: none;
+}
+#panel {
+	background: #000000;
+	border: 1px solid #ccc;
+	height: 400px;
+	display: none;
+	color:white;
+	
+	
+}
+.slide {
+	margin: 0;
+	padding: 0;
+	
+	background: url(paslaugos/susisiekite.png) no-repeat center top;
+	
+	
+	
+}
+
+.btn-slide {
+	background: url(images/white-arrow.gif) no-repeat right -50px;
+	text-align: center;
+	width: 144px;
+	height: 31px;
+	padding: 10px 10px 0 0;
+	margin: 0 auto;
+	display: block;
+	font: bold 120%/100% Arial, Helvetica, sans-serif;
+	color: #fff;
+	text-decoration: none;
+}
+.active {
+	background-position: right 12px;
+}
+#content span {
+	
+	color:#cccccc;	
+	
+	}
+.botom {
+	background:url(../paslaugos/bottom_line.png) no-repeat;
+	
+}
+#center_line {
+	background:url(../paslaugos/center_line.png) no-repeat;
+	width:600px;
+	height:20px;
+	position:relative;
+	
+}
+.darbai_con {
+	position:relative;
+	float:left;
+	width:250px;
+	
+	
+	
+	
+	
+	
+}

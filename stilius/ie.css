@@ -1,0 +1,65 @@
+.panel {
+	position:absolute; 
+	
+	margin-top:150px; 
+
+ 	height:60%; 
+	background: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='paslaugos/background_con.png');
+	color:white;
+}
+
+#lt {
+	width:9px; 
+ 	height:4px; 
+	background:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='paslaugos/lt.png');
+}
+#rt {
+	width:9px; 
+ 	height:4px; 
+	background:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='paslaugos/rt.png');
+}
+#lb {
+	width:9px; 
+ 	height:4px; 
+	background:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='paslaugos/lb.png');
+	
+}
+#rb {
+	width:9px; 
+ 	height:4px; 
+	background:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='paslaugos/rb.png');
+}
+#l {
+	width:9px; 
+	height:392px;
+	background:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='paslaugos/l.png');
+}
+#r {
+	width:9px; 
+	height:392px;
+	background:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='paslaugos/r.png');
+}
+.over {
+	background:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='paslaugos/selected.png');
+}
+.out_active {
+	background:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='paslaugos/active.png');
+}
+.slide {
+	margin: 0;
+	padding: 0;
+	
+	background:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='paslaugos/susisiekite.png');
+	
+	
+}
