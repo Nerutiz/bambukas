@@ -17,7 +17,7 @@
 <ul style="list-style-image: url(paslaugos/ok.gif)" >
 <li style="line-height:30px;" >Kainą nustatysite Jūs.</li>
 <li style="line-height:30px">Atlikdami darbą daug dėmesio skiriame smulkmenoms.</li>
-<li style="line-height:30px">Mes laikome darbą užbaigtą tik tada kai klientas lieka patenkintas.</li>
+<li style="line-height:30px">blt neweikia Mes laikome darbą užbaigtą tik tada kai klientas lieka patenkintas.</li>
 <li style="line-height:30px">Mes laikome darbą užbaigtą tik tada kai klientas lieka patenkintas.</li><li style="line-height:30px">Mes laikome darbą užbaigtą tik tada kai klientas lieka patenkintas.</li>
 </ul>
 
